@@ -1,0 +1,13 @@
+version: '2'
+services:
+  redis:
+    image: "redis:alpine"
+  web:
+    build: .
+    ports:
+     - "80:80"
+    volumes:
+     - .:/usr/src/app
+    depends_on:
+      - redis
+    command: ["npm", "run", "telegram"]

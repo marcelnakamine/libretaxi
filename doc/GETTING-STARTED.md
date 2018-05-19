@@ -151,4 +151,4 @@ Kue shutdown: OK
 
 ## Still have issues?
 
-I know we should use Docker, Vagrant or something else. If you feel enthusiastic go ahead and add it! Explain in detail how to use it and create a repo.
+I know we should use Vagrant or something else. If you feel enthusiastic go ahead and add it! Explain in detail how to use it and create a repo.

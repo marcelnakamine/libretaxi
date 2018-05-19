@@ -57,6 +57,7 @@ Client (Telegram) support: iOS, Android, macOS desktop client, web (can also wor
 * [Installing Node.js](doc/NODEJS.md)
 * [Getting started](doc/GETTING-STARTED.md)
 * [Redis](doc/REDIS.md)
+* [Docker](doc/DOCKER.md)
 * [Esdoc](doc/ESDOC.md)
 * [Contributing](doc/CONTRIBUTING.md)
 * [Add translation](doc/TRANSLATE.md)
